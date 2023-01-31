@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pc8tmMkc6K9iC/9tOeGaDMztYJWg3mqhWXtb8uA4oFJm/3wvdNTJkwt+ARMAjLT5anV9DrIB9zvFJ3k1eklNPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Success\\Desktop\\Jagrity Sharmaa\\Jsonntocsv\\Tutorials.JsonInteraction\\JsoneToCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Success\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

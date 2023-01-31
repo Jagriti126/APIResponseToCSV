@@ -1,0 +1,16 @@
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\bin\Debug\netcoreapp3.1\Tutorials.JsonInteraction.exe
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\bin\Debug\netcoreapp3.1\Tutorials.JsonInteraction.deps.json
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\bin\Debug\netcoreapp3.1\Tutorials.JsonInteraction.runtimeconfig.json
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\bin\Debug\netcoreapp3.1\Tutorials.JsonInteraction.runtimeconfig.dev.json
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\bin\Debug\netcoreapp3.1\Tutorials.JsonInteraction.dll
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\bin\Debug\netcoreapp3.1\Tutorials.JsonInteraction.pdb
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\obj\Debug\netcoreapp3.1\Tutorials.JsonInteraction.csproj.AssemblyReference.cache
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\obj\Debug\netcoreapp3.1\Tutorials.JsonInteraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\obj\Debug\netcoreapp3.1\Tutorials.JsonInteraction.AssemblyInfoInputs.cache
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\obj\Debug\netcoreapp3.1\Tutorials.JsonInteraction.AssemblyInfo.cs
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\obj\Debug\netcoreapp3.1\Tutorials.JsonInteraction.csproj.CoreCompileInputs.cache
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\obj\Debug\netcoreapp3.1\Tutorials.JsonInteraction.csproj.CopyComplete
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\obj\Debug\netcoreapp3.1\Tutorials.JsonInteraction.dll
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\obj\Debug\netcoreapp3.1\Tutorials.JsonInteraction.pdb
+C:\Users\parth\OneDrive\Desktop\JAG\YouTubeTutorials.NET-master\YouTubeTutorials.NET-master\Tutorials.JsonInteraction\obj\Debug\netcoreapp3.1\Tutorials.JsonInteraction.genruntimeconfig.cache
